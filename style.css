@@ -73,24 +73,11 @@ header {
 }
 
 .btn {
-  border: none;
-  background-color: hsl(360, 91%, 36%);
-  border-radius: 25px;
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
-    0px;
-  color: hsl(0, 0%, 100%);
+  color: #ffffff;
   display: inline-block;
-  font-size: 22px;
-  line-height: 22px;
-  margin: 16px 16px 16px 20px;
-  padding: 14px 34px;
+  margin: 16px 50px;
+  padding: auto;
   text-align: center;
-  cursor: pointer;
-}
-
-button[disabled] {
-  cursor: default;
-  background: #c0c7cf;
 }
 
 .float-right {
@@ -118,6 +105,28 @@ button[disabled] {
   overflow: hidden;
 }
 
+#generate {
+  background-color: #d14646;
+  font-size: 20px;
+  padding: 14px 40px;
+  border-radius: 25px;
+  margin-left: 18%;
+  margin-bottom: 10px;
+  cursor: pointer;
+  text-align: center;
+}
+
+#copy {
+  background-color: #36aef4;
+  font-size: 20px;
+  padding: 14px 40px;
+  border-radius: 25px;
+  margin-left: 18%;
+  margin-bottom: 10px;
+  cursor: pointer;
+  text-align: center;
+}
+
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
@@ -133,5 +142,6 @@ button[disabled] {
 @media (max-width: 500px) {
   .btn {
     font-size: 0.8rem;
+    
   }
 }
