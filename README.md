@@ -55,7 +55,9 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Link
 
-Live Site URL: 
+Live Site URL: https://indieun.github.io/Javascript-Password-Generator/
+
+Repository URL: https://github.com/indieun/Javascript-Password-Generator
 
 ## Made With
 
