@@ -56,24 +56,24 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Screenshots
-*Generate Password Button
-    *You are shown the Generate Password button which creates randomly generated strings of characters.
+* Generate Password Button
+    * You are shown the Generate Password button which creates randomly generated strings of characters.
 ![](./assets/Images/1.png)
 
-*Prompts
-    *A list of prompts are given after clicking "Generate Passwords" as options for your choice of items you want in your generated password.
+* Prompts
+    * A list of prompts are given after clicking "Generate Passwords" as options for your choice of items you want in your generated password.
 ![](./assets/Images/2.png)
 
-*Error message
-    *If you don't select valid options, you will be shown an error message saying that you must select a valid option.
+* Error message
+    * If you don't select valid options, you will be shown an error message saying that you must select a valid option.
 ![](./assets/Images/3.png)
 
-*Password generated
-    *When all prompts are successfully chosen, your password is generated.
+* Password generated
+    * When all prompts are successfully chosen, your password is generated.
 ![](./assets/Images/4.png)
 
-*Copy Password Button
-    *A convenient copy password button is present to copy the generated key into your clipboard.
+* Copy Password Button
+    *A  convenient copy password button is present to copy the generated key into your clipboard.
 ![](./assets/Images/5.png)
 
 ## Made With
