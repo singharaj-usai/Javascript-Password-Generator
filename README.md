@@ -28,6 +28,7 @@ As an added bonus, there will also be a "Copy Password" button for user convenie
 ## Links
 
 Live Site URL: https://singharaj-usai.github.io/Javascript-Password-Generator/
+
 Repository URL: https://github.com/singharaj-usai/Javascript-Password-Generator
 
 ## User Story
