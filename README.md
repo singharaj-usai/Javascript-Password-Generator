@@ -58,23 +58,23 @@ THEN the password is either displayed in an alert or written to the page
 ## Screenshots
 *Generate Password Button
     *You are shown the Generate Password button which creates randomly generated strings of characters.
-![](Images/Screenshot 2022-06-13 220604)
+![](Images/Screenshot 2022-06-13 220604.png)
 
 *Prompts
     *A list of prompts are given after clicking "Generate Passwords" as options for your choice of items you want in your generated password.
-![](Images/Screenshot 2022-06-13 220647)
+![](Images/Screenshot 2022-06-13 220647.png)
 
 *Error message
     *If you don't select valid options, you will be shown an error message saying that you must select a valid option.
-![](Images/Screenshot 2022-06-13 220700)
+![](Images/Screenshot 2022-06-13 220700.png)
 
 *Password generated
     *When all prompts are successfully chosen, your password is generated.
-![](Images/Screenshot 2022-06-13 220727)
+![](Images/Screenshot 2022-06-13 220727.png)
 
 *Copy Password Button
     *A convenient copy password button is present to copy the generated key into your clipboard.
-![](Images/Screenshot 2022-06-13 220739)
+![](Images/Screenshot 2022-06-13 220739.png)
 
 ## Made With
 
